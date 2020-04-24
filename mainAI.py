@@ -1,9 +1,5 @@
 #Aim_Of_The_Project:  To identification between two objects when the height and the width are given:
 
-#obj1 = 'Rose_leaf'
-#obj2 = 'Neem_leaf'
-from typing import Any, Union
-
 
 print("Enter the object1:")
 obj1 = input()
@@ -55,5 +51,3 @@ while run:
 
 
 print('$$$$____AI is Terminated____$$$$')
-
-
